@@ -1,0 +1,1 @@
+print("Hoje é dia de akatsuki")
